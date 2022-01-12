@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "ADAMS Jimmy",
+      "address": "London",
+      "email": "adams@gmail.com",
+      "contact": "2345689"
+    },
+    {
+      "id": "2",
+      "name": "Tommy Jim",
+      "address": "Japan",
+      "email": "tommy@gmail.com",
+      "contact": "5435689"
+    },
+    {
+      "id": "3",
+      "name": "JANE",
+      "address": "Australia",
+      "email": "jane@gmail.com",
+      "contact": "3233429"
+    },
+    {
+      "name": "Steve",
+      "email": "steve@gmail.com",
+      "contact": "8669897",
+      "address": "Italy",
+      "id": "MQ8KwsL"
+    },
+    {
+      "name": "hello",
+      "email": "hello@gmail.com",
+      "contact": "1245653",
+      "address": "karachi",
+      "id": "E4_jxTb"
+    },
+    {
+      "name": "test",
+      "email": "test@test.com",
+      "contact": "2134342",
+      "address": "lahore",
+      "id": "Wb2vbs4"
+    }
+  ]
+}
